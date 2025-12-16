@@ -1,4 +1,4 @@
-# Bidirectional-DC-DC-Converter-for-Electric-Vehicles-EVs-
+# Bidirectional-DC-DC-Converter-for-Electric-Vehicles-EVs
 This repository documents the design, modeling, and simulation of a bidirectional DC-DC converter intended for electric vehicle (EV) power management applications, enabling efficient two-way energy transfer between EV battery systems and external loads or the power grid.
 
 The project focuses on supporting both charging and discharging modes through integrated buck and boost converter operation, allowing adaptability to varying battery voltages and load conditions. Special emphasis was placed on advanced energy exchange functionalities such as Vehicle-to-Grid (V2G) and Vehicle-to-Vehicle (V2V) charging to enhance grid stability and energy resilience.
